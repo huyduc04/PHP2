@@ -1,0 +1,9 @@
+{
+    "name": "php2/mvc",
+    "autoload": {
+        "psr-4": {
+            "Php2\\Mvc\\": "app/"
+        }
+    },
+    "require": {}
+}

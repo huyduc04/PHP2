@@ -1,0 +1,12 @@
+{
+    "name": "b/kt",
+    "autoload": {
+        "psr-4": {
+            "B\\Kt\\": "app/"
+        }
+    },
+    "require": {
+        "phroute/phroute": "^2.2",
+        "eftec/bladeone": "^4.9"
+    }
+}
